@@ -13,7 +13,7 @@ I knew by now what i would have to do to send some data like what maipulations n
 
 I was getting error in this line   driver.send((uint8_t *)msg, strlen(msg));   So i added specification of the type of data like the msg in string length also it worked,
 
-For wiring with arduino the pin of data needs to be connected to only one pin like irts constant and otherr are genearl
+For wiring with arduino the pin of data needs to be connected to only one pin like its constant iw pin 12  and other are genearl
 Refer to diagram for more wirings.
 
 
