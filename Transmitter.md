@@ -1,4 +1,4 @@
-Transmitter.    
+Transmitter RW 630.    
 
 I was handed the module RW54 and RW630
 took me some time to find out which is which
