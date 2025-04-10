@@ -19,3 +19,12 @@ So I got to know its wirring . As i had worked only with L293D before. This one 
 the code was ready . But when i ran it after doing all the  cpnnections and congigurations . The serial monitor showed garbage values for very long time .
 we had to configure what was wrong . we changed the buf size  , the data type which was being sent . The code seemed with a bug but i couldnt fugure what was it .
 The output on reciever side was that it printed out data recieverd and then some garbage value instead of what actually was sent .
+
+The errors happening in the driver.send and driver.recieve regarding the DISPARITY in the output i tried checking it changing different data typees i took help from this site.
+https://circuitdigest.com/microcontroller-projects/interfacing-433mhz-rf-module-with-arduino
+
+
+After many tries being unsucesfull to properly get accurate data instead of garbage value .
+I was suggested by senior to do using Virtualwire library which was initislly what i thought but the implmentation of syntax seemed to be more complicated for me to understand.
+i got on github and got this repository which used virtaulwire and to work on it 
+
