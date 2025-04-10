@@ -47,5 +47,6 @@ but time seemed off so i was suggested to document all the process.
 ![task2_1](https://github.com/user-attachments/assets/5a49cbab-b879-4fe1-933a-9daa003cddc3)
 
 This is the note or diagrams or wiring and idea i had during the task it is vague in sense but shows my understanding of subject.
+ignore roll no
 
 
